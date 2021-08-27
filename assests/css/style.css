@@ -243,7 +243,7 @@ body {
 }
 .owl-prev {
   position: absolute;
-  left: 96%;
+  left: 96.5%;
   transform: translate(-92%);
   top: -40px;
   /* margin-bottom: 20px; */
